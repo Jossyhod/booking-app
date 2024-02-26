@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import Styles from './Navbar.module.css'
 
 const Navbar = () => {
@@ -10,7 +10,7 @@ const Navbar = () => {
               alt="Logo" width={"80px"}
             />
             <div className={Styles.line}></div>
-            <i><h5>Student <br/> Quarters</h5></i>
+            <i><h5>Student <br/> Residences</h5></i>
           </div>
           <div className={Styles.nav}>
              <li>Residences</li>
